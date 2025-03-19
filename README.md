@@ -1,5 +1,8 @@
 # Restaurant Sales Analysis & Performance Dashboard
 
+![Restaurant Performance Overview](Restaurant%20Performance%20Overview.png)
+
+
 ## Description
 This project analyzes restaurant sales data, focusing on key metrics such as best-selling items, revenue trends over time, and the most common payment methods. The analysis was performed using SQL for data cleaning, and the results were visualized through Tableau for better understanding and decision-making.
 
